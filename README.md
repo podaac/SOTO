@@ -2,7 +2,7 @@
 
 ![PlantUML model](http://www.plantuml.com/plantuml/svg/SoWkIImgAStDuNBAJrBGjLDmpCbCJbMmKiX8pSd9vt98pKi1IW80)
 
-This open source product line from JPL's [PO.DAAC](https://podaac.jpl.nasa.gov/) and NASA's EOSDIS (https://www.earthdata.nasa.gov/eosdis) is an interactive, web-based tool to generate informative maps and animations that communicate and promote the discovery of the state of the ocean.
+This open source product line from JPL's [PO.DAAC](https://podaac.jpl.nasa.gov/) and [NASA's EOSDIS](https://www.earthdata.nasa.gov/eosdis) is an interactive, web-based tool to generate informative maps and animations that communicate and promote the discovery of the state of the ocean.
 
 SOTO is a suite of tools presented through an interactive, web-based visualization front-end. It provides access to a broad range of satelite-derived products and key parameters of interest to the oceanographic community. SOTO facilitates visual exploration and the ability to download data to analyze with your own tools enabling your research. Many of the imagery layers are updated daily and are available within three hours of observation - essentially showing the entire Earth as it looks "right now". Arctic and Antarctic views of many products are also available for a "full globe" perspective. Geostationary imagery layers are also now available. These are provided in ten minute increments for the last 90 days. These full disk hemispheric views allow for almost real-time viewing of changes occurring around most of the world. Browsing on tablet and smartphone devices is generally supported for mobile access to the imagery.
 
