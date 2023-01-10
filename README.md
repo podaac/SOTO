@@ -1,6 +1,6 @@
 # State of the Ocean (SOTO)
 
-![PlantUML model](http://www.plantuml.com/plantuml/svg/SoWkIImgAStDuNBAJrBGjLDmpCbCJbMmKiX8pSd9vt98pKi1IW80)
+![PlantUML model](http://www.plantuml.com/plantuml/svg/5SoniS8m30RW_atn621MJvKDKi02GjOHtyMIJ_wLh0zKN_Uj4np8VlpTcicHLVztOCmxKV1LtWrxld9gY1lKKCGx3Q_CGe_jkL7dPZGTlepmceB5JuspwLN6hrtLwjSF)
 
 This open source product line from JPL's [PO.DAAC](https://podaac.jpl.nasa.gov/) and [NASA's EOSDIS](https://www.earthdata.nasa.gov/eosdis) is an interactive, web-based tool to generate informative maps and animations that communicate and promote the discovery of the state of the ocean.
 
