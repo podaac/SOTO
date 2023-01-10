@@ -1,3 +1,25 @@
 @startuml
-Bob -> Alice : hello
+' Define the main location (URL or local file path)
+!define AWSPuml https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v14.0/dist
+' Include main AWSCommon and then resource files
+!include AWSPuml/AWSCommon.puml
+!include AWSPuml/General/all.puml
+
+left to right direction
+
+Users(data_provider, "Data Provider", "")
+Users(end_user, "End User", "")
+GenericApplication(cumulus, "Cumulus", "")
+GenericApplication(harmony, "Harmony", "")
+GenericApplication(gibs, "GIBS", "")
+GenericApplication(worldview, "Worldview", "")
+
+
+data_provider --> cumulus
+cumulus --> harmony
+harmony --> cumulus
+cumulus --> gibs
+gibs --> worldview
+worldview --> end_user
+
 @enduml
