@@ -16,3 +16,5 @@ Component repositories:
 - https://github.com/podaac/net2cog
 - https://github.com/podaac/netcdf_to_geojson_vectors
 - https://github.com/podaac/gibs-imagestat
+- https://github.com/podaac/hydrocron
+- https://github.com/podaac/feature-translation-service/
